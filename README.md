@@ -25,6 +25,16 @@ description: ''
 
 <PlotlyBarChart
   data={{
+    url: 'birth_country.csv'
+  }}
+  title="Country of birth of the athletes participating in Paris 2024*"
+  xAxis="birth_country"
+  yAxis="number_athletes"
+/>
+**NOTE: No country of birth data of 2,814 athletes*
+
+<PlotlyBarChart
+  data={{
     url: 'year_of_birth.csv'
   }}
   title="Year of birth of athletes"
@@ -41,16 +51,6 @@ description: ''
   yAxis="height"
 />
 **NOTE: No height data of 6,738 athletes*
-
-<PlotlyBarChart
-  data={{
-    url: 'birth_country.csv'
-  }}
-  title="Height in centimeters of the participating athletes*"
-  xAxis="birth_country"
-  yAxis="number_athletes"
-/>
-**NOTE: No birth country data of 2,814 athletes*
 
 ## Full list of athletes competing in the 2024 Summer Olympic Games*
 <FlatUiTable
