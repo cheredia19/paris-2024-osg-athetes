@@ -40,6 +40,7 @@ description: ''
   xAxis="height_cm"
   yAxis="height"
 />
+**NOTE: No height data of 6,738 athletes*
 
 ## Full list of athletes competing in the 2024 Summer Olympic Games
 <FlatUiTable
