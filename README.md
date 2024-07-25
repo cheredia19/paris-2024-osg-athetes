@@ -38,7 +38,7 @@ description: ''
     url: 'residence_country.csv'
   }}
   title="Country of residence of the athletes participating in Paris 2024*"
-  xAxis="birth_country"
+  xAxis="residence_country"
   yAxis="number_athletes"
 />
 **NOTE: No country of residence data of 3,715 athletes*
