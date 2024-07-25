@@ -36,13 +36,23 @@ description: ''
   data={{
     url: 'athletes_height.csv'
   }}
-  title="Height in centimeters of the participating athletes"
+  title="Height in centimeters of the participating athletes*"
   xAxis="height_cm"
   yAxis="height"
 />
 **NOTE: No height data of 6,738 athletes*
 
-## Full list of athletes competing in the 2024 Summer Olympic Games
+<PlotlyBarChart
+  data={{
+    url: 'birth_country.csv'
+  }}
+  title="Height in centimeters of the participating athletes*"
+  xAxis="birth_country"
+  yAxis="number_athletes"
+/>
+**NOTE: No birth country data of 2,814 athletes*
+
+## Full list of athletes competing in the 2024 Summer Olympic Games*
 <FlatUiTable
   data={{
     url: 'data.csv'    
