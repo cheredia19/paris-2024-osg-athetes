@@ -35,7 +35,7 @@ description: ''
 
 <PlotlyBarChart
   data={{
-    url: 'residence_country.csv'
+    url: 'residence_coun.csv'
   }}
   title="Country of residence of the athletes participating in Paris 2024*"
   xAxis="residence_country"
