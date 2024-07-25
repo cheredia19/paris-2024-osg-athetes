@@ -32,6 +32,15 @@ description: ''
   yAxis="number_athletes"
 />
 
+<PlotlyBarChart
+  data={{
+    url: 'athletes_height.csv'
+  }}
+  title="Height in centimeters of the participating athletes"
+  xAxis="height_cm"
+  yAxis="height"
+/>
+
 ## Full list of athletes competing in the 2024 Summer Olympic Games
 <FlatUiTable
   data={{
