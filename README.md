@@ -23,6 +23,15 @@ description: ''
   yAxis="number_athletes"
 />
 
+<PlotlyBarChart
+  data={{
+    url: 'year_of_birth.csv'
+  }}
+  title="Year of birth of athletes"
+  xAxis="year"
+  yAxis="number_athletes"
+/>
+
 ## Full list of athletes competing in the 2024 Summer Olympic Games
 <FlatUiTable
   data={{
