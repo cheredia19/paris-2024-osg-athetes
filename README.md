@@ -16,7 +16,7 @@ description: ''
 
 <PlotlyBarChart
   data={{
-    url: 'by_country_under_100.csv'
+    url: 'by_country_below_100.csv'
   }}
   title="Countries with under 100 athletes"
   xAxis="country"
