@@ -54,6 +54,15 @@ description: ''
 
 <PlotlyBarChart
   data={{
+    url: 'alternate_country.csv'
+  }}
+  title="Countries with alternative athletes"
+  xAxis="country"
+  yAxis="alternate_athletes"
+/>
+
+<PlotlyBarChart
+  data={{
     url: 'discipline_alternates.csv'
   }}
   title="Sports in which alternative athletes are involved"
