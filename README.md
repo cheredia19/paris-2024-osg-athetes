@@ -63,7 +63,7 @@ description: ''
 
 ## Full list of athletes competing in Paris 2024*
 
-#### From A to K
+### From A to K
 
 <FlatUiTable
   data={{
@@ -71,7 +71,7 @@ description: ''
   }}
 />
 
-#### From L to Z
+### From L to Z
 
 <FlatUiTable
   data={{
