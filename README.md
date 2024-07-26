@@ -74,6 +74,15 @@ description: ''
 
 <PlotlyBarChart
   data={{
+    url: 'refugees_origin.csv'
+  }}
+  title="Birth countries of refugee athletes"
+  xAxis="country_origin"
+  yAxis="refugee_athletes"
+/>
+
+<PlotlyBarChart
+  data={{
     url: 'refugee_disciplines.csv'
   }}
   title="Sports in which refugee athletes are involved"
