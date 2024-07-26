@@ -58,4 +58,9 @@ description: ''
     url: 'athletes_a_k.csv'
   }}
 />
+<FlatUiTable
+  data={{
+    url: 'athletes_l_z.csv'
+  }}
+/>
 **NOTE: It includes the alternate athetes*
