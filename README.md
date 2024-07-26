@@ -52,6 +52,15 @@ description: ''
 />
 **NOTE: No height data of 6,738 athletes*
 
+<PlotlyBarChart
+  data={{
+    url: 'discipline_alternates.csv'
+  }}
+  title="Sports in which alternative athletes are involved"
+  xAxis="discipline"
+  yAxis="alternate_athletes"
+/>
+
 ## Full list of athletes competing in Paris 2024*
 
 #### From A to K
