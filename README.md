@@ -35,6 +35,16 @@ description: ''
 
 <PlotlyBarChart
   data={{
+    url: 'athletes_residence.csv'
+  }}
+  title="Country of residence of the athletes participating in Paris 2024*"
+  xAxis="birth_country"
+  yAxis="number_athletes"
+/>
+**NOTE: No country of birth data of 3,715 athletes*
+
+<PlotlyBarChart
+  data={{
     url: 'year_of_birth.csv'
   }}
   title="Year of birth of athletes"
