@@ -70,6 +70,17 @@ description: ''
   yAxis="ain_athletes"
 />
 
+## Refugee Olympic Team
+
+<PlotlyBarChart
+  data={{
+    url: 'refugee_disciplines.csv'
+  }}
+  title="Sports in which refugee athletes are involved"
+  xAxis="discipline"
+  yAxis="refugee_athletes"
+/>
+
 ## Full list of athletes competing in Paris 2024*
 
 ### From A to K
