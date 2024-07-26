@@ -52,6 +52,8 @@ description: ''
 />
 **NOTE: No height data of 6,738 athletes*
 
+## Alternate athletes
+
 <PlotlyBarChart
   data={{
     url: 'alternate_country.csv'
@@ -69,6 +71,8 @@ description: ''
   xAxis="discipline"
   yAxis="alternate_athletes"
 />
+
+## Individual neutral athletes
 
 <PlotlyBarChart
   data={{
