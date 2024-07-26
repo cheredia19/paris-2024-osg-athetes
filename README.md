@@ -61,6 +61,15 @@ description: ''
   yAxis="alternate_athletes"
 />
 
+<PlotlyBarChart
+  data={{
+    url: 'ain_disciplines.csv'
+  }}
+  title="Sports in which AIN athletes are involved"
+  xAxis="discipline"
+  yAxis="ain_athletes"
+/>
+
 ## Full list of athletes competing in Paris 2024*
 
 ### From A to K
