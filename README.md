@@ -52,12 +52,18 @@ description: ''
 />
 **NOTE: No height data of 6,738 athletes*
 
-## Full list of athletes competing in the 2024 Summer Olympic Games*
+## Full list of athletes competing in Paris 2024*
+
+#### From A to K
+
 <FlatUiTable
   data={{
     url: 'athletes_a_k.csv'
   }}
 />
+
+#### From L to Z
+
 <FlatUiTable
   data={{
     url: 'athletes_l_z.csv'
