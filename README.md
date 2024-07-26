@@ -55,7 +55,7 @@ description: ''
 ## Full list of athletes competing in the 2024 Summer Olympic Games*
 <FlatUiTable
   data={{
-    url: 'athletes_a_z.csv'    
+    url: 'athletes_a_k.csv'
   }}
 />
 **NOTE: It includes the alternate athetes*
