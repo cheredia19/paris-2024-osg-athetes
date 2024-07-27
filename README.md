@@ -151,7 +151,7 @@ Fifteen athletes of the Refugee Olympic Team *(l’Équipe Olympique des Réfugi
   yAxis="refugee_athletes"
 />
 
-
+Ten refugees live in Germany, five in Great Britain, and four in France. The Netherlands and Switzerland host three refugee athletes each, while Israel and Italy have given two competitors each a home.
 
 <PlotlyBarChart
   data={{
