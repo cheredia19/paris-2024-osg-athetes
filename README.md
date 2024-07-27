@@ -131,7 +131,7 @@ The chart below specifies the sports in which the 31 AINs will participate in Pa
   data={{
     url: 'ain_disciplines.csv'
   }}
-  title="Sports in which AIN athletes are involved"
+  title="Sports in which the AINs are involved"
   xAxis="discipline"
   yAxis="ain_athletes"
 />
