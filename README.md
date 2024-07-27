@@ -5,11 +5,11 @@ description: ''
 
 *By [César Heredia](https://x.com/cahered), data journalist*
 
-Paris 2024 has officially begun! With over 10,5 thousand athletes from 204 countries competing in [32 sports](https://olympics.com/en/sports/#:~:text=Frequently%20Asked%20Questions,are%20in%20the%20Summer%20Olympics%3F), the 30th Summer Olympic Games will take place until August 11.
+Paris 2024 has officially begun! With **over 10,5 thousand athletes from 204 countries** competing in [32 sports](https://olympics.com/en/sports/#:~:text=Frequently%20Asked%20Questions,are%20in%20the%20Summer%20Olympics%3F), the 30th Summer Olympic Games will take place until August 11.
 
-The capital of France hosts the Olympics for the third time in history, after 1900 and 1924. Back then, the games were held between May 4 and July 27. The venue hosted 3,089 athletes, 2,956 men and 136 women. Now, 5,465 men and 5,281 women take part in this massive sports event, a sign of how things have changed over 100 years.
+The capital of France hosts the Olympics for the third time in history, after 1900 and 1924. Back then, the games were held between May 4 and July 27. The venue hosted 3,089 athletes, 2,956 men and 136 women. Now, **5,465 men and 5,281 women take part in this massive sports event**, a sign of how things have changed over 100 years.
 
-Thirty-three nations say *present* in the Olympics with 100 or more athletes (16.1% out of 204). The 593 competitors representing the United States make them the largest delegation of the games. The USA, France (572), and Australia (460) are the top three countries with the most athletes.
+Thirty-three nations say *present* in the Olympics with 100 or more athletes (16.1% out of 204). The 593 competitors representing the United States make them **the largest delegation of the games**. The USA, France (572), and Australia (460) are the top three countries with the most athletes.
 
 <PlotlyBarChart
   data={{
@@ -20,7 +20,7 @@ Thirty-three nations say *present* in the Olympics with 100 or more athletes (16
   yAxis="number_athletes"
 />
 
-Meanwhile, more than eight out of 10 countries have less than 100 athletes (83.8%). Ninety-nine have fewer than ten representatives. These include Kuwait, Palestine, Panama, and Cameroon, among others.
+Meanwhile, more than eight out of 10 countries have less than 100 athletes (83.8%). **Ninety-nine have fewer than ten representatives**. These include Kuwait, Palestine, Panama, and Cameroon, among others.
 
 <PlotlyBarChart
   data={{
@@ -31,7 +31,7 @@ Meanwhile, more than eight out of 10 countries have less than 100 athletes (83.8
   yAxis="number_athletes"
 />
 
-Not all athletes represent the country they were born. And Australia is a perfect example of that fact. Of the 460 competitors that will wear Australian uniforms in Paris 2024, at least 323 were born there (70.2%). The rest come from the following countries:
+Not all athletes represent the country they were born. And **Australia is a perfect example** of that fact. Of the 460 competitors that will wear Australian uniforms in Paris 2024, at least 323 were born there (70.2%). The rest come from the following countries:
 
 <FlatUiTable
   data={{
@@ -54,7 +54,7 @@ The following bar chart shows the country of birth of 73.8% of the athletes part
 />
 **NOTE: No country of birth data of 2,814 athletes*
 
-The next one shows the country of residence of 
+According to the data available, **at least 824 athletes live in the United States**. 438 competitors have France as their country of residence, while 377 reside in Germany, 330 in Spain, and 312 in Great Britain.
 
 <PlotlyBarChart
   data={{
