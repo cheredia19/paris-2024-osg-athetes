@@ -33,10 +33,14 @@ More than eight out of 10 countries have less than 100 athletes (83.8%). Ninety-
 
 Not all athletes represent the country they were born. And Australia is a perfect example of that fact. Of the 460 competitors that will wear Australian uniforms in Paris 2024, at least 323 were born there (70.2%). The rest come from the following countries:
 
-
+<FlatUiTable
+  data={{
+    url: 'non_australian_born.csv'
+  }}
+/>
 *No data available - 81*
 
-This situation repeats in countries such as France (at least 25 different countries apart from France), Spain (18 different countries), Germany (17), Italy (23), Canada (20), Great Britain (13), and the Netherlands (11), among others.
+This situation repeats in countries such as France (a minimum of 25 different countries apart from France), Spain (18 different countries), Germany (17), Italy (23), Canada (20), Great Britain (13), and the Netherlands (11), among others.
 
 <PlotlyBarChart
   data={{
