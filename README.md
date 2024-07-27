@@ -97,8 +97,7 @@ The alternates are athletes ready to compete at a moment's notice, prepared to s
 
 The fact that they are not credentialed athletes **limits their access to the Paris 2024 course and other official venues**. Consequently, alternate athletes do not receive the same support or access to the Olympic Village until they replace an official team member.
 
-There are 673 alternate athletes from XX countries.
-
+There are **673 alternate athletes** from 69 countries. The USA is the nation with more alternates athletes with 60, followed by France(50), Germany (41), and Japan (37).
 
 <PlotlyBarChart
   data={{
@@ -108,6 +107,8 @@ There are 673 alternate athletes from XX countries.
   xAxis="country"
   yAxis="alternate_athletes"
 />
+
+The *alternates* will be ready to step in if anything happen in 12 sports. Athletics and Football are the disciplines with more alternate athletes (154 and 111, respectively).
 
 <PlotlyBarChart
   data={{
