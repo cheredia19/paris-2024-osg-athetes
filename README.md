@@ -75,11 +75,15 @@ By decade, 114 athletes (active or alternate) were born between 1954 and 1980, w
   yAxis="number_athletes"
 />
 
-A
+The tallest athlete of the 2024 Summer Olympic Games is the French sensation Victor Wembayama (224 centimeters), while the shortest is, according to our records, Zambian female footballer [Avell Chitundu](https://olympics.com/en/paris-2024/athlete/1925995), with a height of 140 centimeters.
+
+The country that has the highest average height is South Sudan, thanks to the fact that of the 14 athletes who represent it, 12 belong to the men's basketball team, while the shortest on average is Myanmar.
+
+Of the available data, the most repeated height among the athletes is 170 centimeters (5.57 ft). The graphic below shows all the heights:
 
 <PlotlyBarChart
   data={{
-    url: 'athletes_height.csv'
+    url: 'athlete_height.csv'
   }}
   title="Height in centimeters of the participating athletes*"
   xAxis="height_cm"
