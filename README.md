@@ -38,7 +38,7 @@ Not all athletes represent the country they were born. And **Australia is a perf
     url: 'non_australia_born.csv'
   }}
 />
-*No data available - 81*
+*No data available: 81*
 
 This situation repeats in countries such as France (a minimum of 25 different countries apart from France), Spain (18 different countries), Germany (17), Italy (23), Canada (20), Great Britain (13), and the Netherlands (11), among others.
 
@@ -119,7 +119,7 @@ The *alternates* will be ready to step in if anything happens in 12 sports. Athl
   yAxis="alternate_athletes"
 />
 
-## Individual neutral athletes
+## Individual Nneutral Athletes
 
 As explained in [olympics.com](https://olympics.com/ioc/paris-2024-individual-neutral-athletes), Individual Neutral Athletes (AIN, or *Athlètes Individuels Neutres* in French) are athletes "**with Belarusian or Russian passports** confirmed as eligible and invited to compete at the Summer Olympic Games Paris 2024." 
 
@@ -136,7 +136,7 @@ The chart below specifies the sports in which the 31 AINs will participate in Pa
   yAxis="ain_athletes"
 />
 
-## Refugee Olympic Team
+## The Refugee Olympic Team 
 
 <PlotlyBarChart
   data={{
