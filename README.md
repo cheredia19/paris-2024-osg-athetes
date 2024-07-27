@@ -15,10 +15,12 @@ Thirty-three nations say *present* in the Olympics with 100 or more athletes (16
   data={{
     url: 'by_country_over_100.csv'
   }}
-  title="Countries with over 100 athletes"
+  title="Countries with 100 or more athletes"
   xAxis="country"
   yAxis="number_athletes"
 />
+
+More than eight out of 10 countries have less than 100 athletes (83.8%). Ninety-nine have fewer than ten representatives. These include Kuwait, Palestine, Panama, and Cameroon, among others.
 
 <PlotlyBarChart
   data={{
