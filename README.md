@@ -91,8 +91,13 @@ Of the available data, the most repeated height is 170 centimeters (5.57 ft). Th
 />
 **NOTE: No height data of 6,738 athletes*
 
-## The *alternate athletes*
+## The *alternate athletes*: not official athletes until...
 
+The alternates are athletes ready to compete at a moment's notice, prepared to step in if needed but face certain challenges[https://www.triathlete.com/events/olympics/what-is-it-like-to-be-an-olympic-alternate/]. These include **some restrictions until they are officially called to compete**. 
+
+The fact that they are not credentialed athletes **limits their access to the Paris 2024 course and other official venues**. Consequently, alternate athletes do not receive the same support or access to the Olympic Village until they replace an official team member.
+
+There are 673 alternate athletes from XX countries.
 
 
 <PlotlyBarChart
