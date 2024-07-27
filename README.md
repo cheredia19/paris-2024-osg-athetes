@@ -91,7 +91,9 @@ Of the available data, the most repeated height is 170 centimeters (5.57 ft). Th
 />
 **NOTE: No height data of 6,738 athletes*
 
-## Alternate athletes
+## The *alternate athletes*
+
+
 
 <PlotlyBarChart
   data={{
