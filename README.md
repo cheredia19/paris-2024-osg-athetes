@@ -121,6 +121,12 @@ The *alternates* will be ready to step in if anything happens in 12 sports. Athl
 
 ## Individual neutral athletes
 
+As explained in [olympics.com](https://olympics.com/ioc/paris-2024-individual-neutral-athletes), Individual Neutral Athletes (AIN, or * Athlètes Individuels Neutres* in French) are athletes "**with Belarusian or Russian passports** confirmed as eligible and invited to compete at the Summer Olympic Games Paris 2024." 
+
+Quotas for AIN were determined on the field of play through the existing qualification competitions and the specific eligibility requirements of the International Federations, said olympics.com on their website.
+
+The chart below specifies the sports in which the 31 AINs will participate in Paris 2024:
+
 <PlotlyBarChart
   data={{
     url: 'ain_disciplines.csv'
