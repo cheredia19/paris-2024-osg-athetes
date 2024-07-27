@@ -9,6 +9,8 @@ Paris 2024 has officially begun! With over 10,5 thousand athletes from 204 count
 
 The capital of France hosts the Olympics for the third time in history, after 1900 and 1924. Back then, the games were held between May 4 and July 27. The venue hosted 3,089 athletes, 2,956 men and 136 women. Now, 5,465 men and 5,281 women take part in this massive sports event, a sign of how things have changed over 100 years.
 
+Thirty-three nations say *present* in the Olympics with 100 or more athletes (16.1% out of 204). The 593 competitors representing the United States make them the largest delegation of the games. The USA, France (572), and Australia (460) are the top three countries with the most athletes.
+
 <PlotlyBarChart
   data={{
     url: 'by_country_over_100.csv'
