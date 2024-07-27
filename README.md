@@ -138,6 +138,10 @@ The chart below specifies the sports in which the 31 AINs will participate in Pa
 
 ## The Refugee Olympic Team 
 
+At the Paris 2024 Olympic Games, **37 refugee athletes will participate** in the competition. The figure represents the largest since the inception of International Olympic Committee refugee teams at the Rio De Janeiro Games 2016.
+
+Fifteen athletes of the Refugee Olympic Team *(l’Équipe Olympique des Réfugiés, EOR)* were born in **Iran**. Syria and Afghanistan follow the Islamic Republic with five and four representatives, respectively. For the second Games in a row, a Venezuelan-born athlete is a member of the refugee Olympic team. Shooter **Edilio Centeno**, from Barquisimeto town, is one of the two Latin Americans (along with Cuban weightlifter **Ramiro Mora**) that are part of this group.
+
 <PlotlyBarChart
   data={{
     url: 'refugees_origin.csv'
@@ -147,6 +151,8 @@ The chart below specifies the sports in which the 31 AINs will participate in Pa
   yAxis="refugee_athletes"
 />
 
+
+
 <PlotlyBarChart
   data={{
     url: 'refugees_residence.csv'
@@ -155,6 +161,8 @@ The chart below specifies the sports in which the 31 AINs will participate in Pa
   xAxis="country_residence"
   yAxis="refugee_athletes"
 />
+
+
 
 <PlotlyBarChart
   data={{
