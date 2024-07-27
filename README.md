@@ -1,6 +1,6 @@
 ---
-title: 'Athletes in Paris 2024'
-description: ''
+title: 'A glimpse on the athletes competing in Paris 2024'
+description: 'Almost 11K athletes from 204 countries, AIN, and the Refugee Olympic Team, will pursue the glory of the victory until mid-August'
 ---
 
 *By [César Heredia](https://x.com/cahered), data journalist*
@@ -175,7 +175,9 @@ The refugee athletes will be involved in 12 sports: athletics, badminton, boxing
 
 ## Full list of athletes competing in Paris 2024*
 
+Between athletes and alternate athletes, Paris 2024 will have 11,419 competitors. In the two tables below, you can read the basic information of each one, ordered by name.
 
+Remember that you can filter by name, gender, whether the athlete is alternate or not, country, height in centimeters, sport (discipline), event, birth date, year of birth, place of birth, country of birth, place of residence, country of residence, nickname, hobbies, occupation, education, family, spoken languages, coach, reason (of practicing the sport), hero, influence, philosophy, sporting relatives, ritual, and other sports (subject to the availability of data).
 
 ### From A to K
 
