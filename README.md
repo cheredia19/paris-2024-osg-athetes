@@ -79,7 +79,7 @@ The tallest athlete of the 2024 Summer Olympic Games is the French sensation Vic
 
 The country that has the highest average height is South Sudan, thanks to the fact that of the 14 athletes who represent it, 12 belong to the men's basketball team, while the shortest on average is Myanmar.
 
-Of the available data, the most repeated height among the athletes is 170 centimeters (5.57 ft). The graphic below shows all the heights:
+Of the available data, the most repeated height is 170 centimeters (5.57 ft). The graphic below shows all the heights of the competing athletes:
 
 <PlotlyBarChart
   data={{
