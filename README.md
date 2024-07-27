@@ -56,6 +56,16 @@ The following bar chart shows the country of birth of 73.8% of the athletes part
 
 According to the data available, **at least 824 athletes live in the United States**. 438 competitors have France as their country of residence, while 377 reside in Germany, 330 in Spain, and 312 in Great Britain.
 
+## A look at athletes' year of birth and height
+
+The oldest active athlete who participates in the current Summer Olympic Games is 65 years old. **Juan Antonio Jiménez Cobo**, a Spaniard equestrian athlete, was born on May 11, 1959. Some media outlets claim the eldest is [Mary Hanna](https://olympics.com/en/athletes/mary-hanna) from Australia, who is 69  and competing in her seventh Olympiads. However, she is an *alternate athlete*.
+
+At the other end, the youngest competitor in Paris 2024 is the Chinese skateboarder [Haohao Zheng](https://olympics.com/en/athletes/haohao-zheng), who will be 12 years old by August 11, the day that the Games end.
+
+By decade, 114 athletes (active or alternate) were born between 1954 and 1980, while 1075 did it in the 80s. **From 1991 to 2000, 7159 competitors were born (62.7%)**, and 3071 came to life in the current century.
+
+46.7% of the athletes (5339) in the current Olympics were born between 1996 and 2001. The years with more births were 1999 (876) and 2000 (874). The graphic below shows all the births by year, from 1954 (Hanna) to 2012 (Zheng).
+
 <PlotlyBarChart
   data={{
     url: 'year_of_birth.csv'
