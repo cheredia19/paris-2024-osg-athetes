@@ -162,7 +162,7 @@ Ten refugees live in Germany, five in Great Britain, and four in France. The Net
   yAxis="refugee_athletes"
 />
 
-
+The refugee athletes will be involved in 12 sports: athletics, badminton, boxing, breaking, canoeing (slalom, and sprint), cycling, judo, shooting, swimming, taekwondo, weightlifting, and wrestling. You can see this as a bar chart below:
 
 <PlotlyBarChart
   data={{
@@ -174,6 +174,8 @@ Ten refugees live in Germany, five in Great Britain, and four in France. The Net
 />
 
 ## Full list of athletes competing in Paris 2024*
+
+
 
 ### From A to K
 
