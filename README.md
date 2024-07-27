@@ -41,7 +41,7 @@ Not all athletes represent the country they were born. And Australia is a perfec
 - France - 2
 - Germany - 2
 - Great Britain - 10
-- Hong Kong, China - 1	1
+- Hong Kong, China - 1
 - Indonesia - 1
 - Ireland - 1
 - Kenya - 1
@@ -60,7 +60,7 @@ Not all athletes represent the country they were born. And Australia is a perfec
 - United States - 7
 - Uzbekistan - 1
 - Zimbabwe - 2
-*No data available - 81*
+- *No data available - 81*
 
 
 <PlotlyBarChart
