@@ -64,7 +64,7 @@ At the other end, the youngest competitor in Paris 2024 is the Chinese skateboar
 
 By decade, 114 athletes (active or alternate) were born between 1954 and 1980, while 1075 did it in the 80s. **From 1991 to 2000, 7159 competitors were born (62.7%)**, and 3071 came to life in the current century.
 
-46.7% of the athletes (5339) in the current Olympics were born between 1996 and 2001. The years with more births were 1999 (876) and 2000 (874). The graphic below shows all the births by year, from 1954 (Hanna) to 2012 (Zheng).
+46.7% of the athletes (5339) in the current Olympics **were born between 1996 and 2001**. The years with more births were 1999 (876) and 2000 (874). The graphic below shows all the births by year, from 1954 (Hanna) to 2012 (Zheng).
 
 <PlotlyBarChart
   data={{
@@ -77,7 +77,7 @@ By decade, 114 athletes (active or alternate) were born between 1954 and 1980, w
 
 The tallest athlete of the 2024 Summer Olympic Games is the French sensation Victor Wembayama (224 centimeters), while the shortest is, according to our records, Zambian female footballer [Avell Chitundu](https://olympics.com/en/paris-2024/athlete/1925995), with a height of 140 centimeters.
 
-The country that has the highest average height is South Sudan, thanks to the fact that of the 14 athletes who represent it, 12 belong to the men's basketball team, while the shortest on average is Myanmar.
+The country that has the highest average height is South Sudan, thanks to the fact that of the 14 athletes who represent the African nation, 12 belong to the men's basketball team, while the shortest on average is Myanmar.
 
 Of the available data, the most repeated height is 170 centimeters (5.57 ft). The graphic below shows all the heights of the competing athletes:
 
@@ -93,7 +93,7 @@ Of the available data, the most repeated height is 170 centimeters (5.57 ft). Th
 
 ## The *alternate athletes*: not official athletes until...
 
-The alternates are athletes ready to compete at a moment's notice, prepared to step in if needed but face certain challenges[https://www.triathlete.com/events/olympics/what-is-it-like-to-be-an-olympic-alternate/]. These include **some restrictions until they are officially called to compete**. 
+The alternates are athletes ready to compete at a moment's notice, prepared to step in if needed but [face certain challenges](https://www.triathlete.com/events/olympics/what-is-it-like-to-be-an-olympic-alternate/). These include **some restrictions until they are officially called to compete**. 
 
 The fact that they are not credentialed athletes **limits their access to the Paris 2024 course and other official venues**. Consequently, alternate athletes do not receive the same support or access to the Olympic Village until they replace an official team member.
 
@@ -108,7 +108,7 @@ There are **673 alternate athletes** from 69 countries. The USA is the nation wi
   yAxis="alternate_athletes"
 />
 
-The *alternates* will be ready to step in if anything happen in 12 sports. Athletics and Football are the disciplines with more alternate athletes (154 and 111, respectively).
+The *alternates* will be ready to step in if anything happens in 12 sports. Athletics and Football are the disciplines with more alternate athletes (154 and 111, respectively).
 
 <PlotlyBarChart
   data={{
