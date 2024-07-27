@@ -7,7 +7,7 @@ description: ''
 
 Paris 2024 has officially begun! With **over 10,5 thousand athletes from 204 countries** competing in [32 sports](https://olympics.com/en/sports/#:~:text=Frequently%20Asked%20Questions,are%20in%20the%20Summer%20Olympics%3F), the 30th Summer Olympic Games will take place until August 11.
 
-The capital of France hosts the Olympics for the third time in history, after 1900 and 1924. Back then, the games were held between May 4 and July 27. The venue hosted 3,089 athletes, 2,956 men and 136 women. Now, **5,465 men and 5,281 women take part in this massive sports event**, a sign of how things have changed over 100 years.
+The capital of France hosts the Olympics for the third time in history, after 1900 and 1924. Back then, the games were held between May 4 and July 27. The venue hosted 3,089 athletes, 2,956 men and 136 women. Now, **5,465 men and 5,281 women take part in this massive sports event**, a sign of [how things have changed](https://www.nbcolympics.com/news/paris-2024-sets-milestone-first-olympics-achieve-full-gender-parity) over 100 years.
 
 Thirty-three nations say *present* in the Olympics with 100 or more athletes (16.1% out of 204). The 593 competitors representing the United States make them **the largest delegation of the games**. The USA, France (572), and Australia (460) are the top three countries with the most athletes.
 
