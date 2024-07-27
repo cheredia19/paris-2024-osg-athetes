@@ -103,7 +103,7 @@ There are **673 alternate athletes** from 69 countries. The USA is the nation wi
   data={{
     url: 'alternate_country.csv'
   }}
-  title="Countries with alternative athletes"
+  title="Countries with alternate athletes"
   xAxis="country"
   yAxis="alternate_athletes"
 />
