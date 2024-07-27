@@ -20,7 +20,7 @@ Thirty-three nations say *present* in the Olympics with 100 or more athletes (16
   yAxis="number_athletes"
 />
 
-More than eight out of 10 countries have less than 100 athletes (83.8%). Ninety-nine have fewer than ten representatives. These include Kuwait, Palestine, Panama, and Cameroon, among others.
+Meanwhile, more than eight out of 10 countries have less than 100 athletes (83.8%). Ninety-nine have fewer than ten representatives. These include Kuwait, Palestine, Panama, and Cameroon, among others.
 
 <PlotlyBarChart
   data={{
@@ -35,12 +35,14 @@ Not all athletes represent the country they were born. And Australia is a perfec
 
 <FlatUiTable
   data={{
-    url: 'non_australian_born.csv'
+    url: 'non_australia_born.csv'
   }}
 />
 *No data available - 81*
 
 This situation repeats in countries such as France (a minimum of 25 different countries apart from France), Spain (18 different countries), Germany (17), Italy (23), Canada (20), Great Britain (13), and the Netherlands (11), among others.
+
+The following bar chart shows the country of birth of 73.8% of the athletes participating in the Olympic Games.
 
 <PlotlyBarChart
   data={{
@@ -51,6 +53,8 @@ This situation repeats in countries such as France (a minimum of 25 different co
   yAxis="number_athletes"
 />
 **NOTE: No country of birth data of 2,814 athletes*
+
+The next one shows the country of residence of 
 
 <PlotlyBarChart
   data={{
