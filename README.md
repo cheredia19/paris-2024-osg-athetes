@@ -5,6 +5,10 @@ description: ''
 
 *By [César Heredia](https://x.com/cahered), data journalist*
 
+Paris 2024 has officially begun! With over 10,5 thousand athletes from 204 countries competing in [32 sports](https://olympics.com/en/sports/#:~:text=Frequently%20Asked%20Questions,are%20in%20the%20Summer%20Olympics%3F), the 30th Summer Olympic Games will take place until August 11.
+
+The capital of France hosts the Olympics for the third time in history, after 1900 and 1924. Back then, the games were held between May 4 and July 27. The venue hosted 3,089 athletes, 2,956 men and 136 women. Now, 5,465 men and 5,281 women take part in this massive sports event, a sign of how things have changed over 100 years.
+
 <PlotlyBarChart
   data={{
     url: 'by_country_over_100.csv'
