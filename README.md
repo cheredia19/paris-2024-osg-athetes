@@ -62,6 +62,7 @@ Not all athletes represent the country they were born. And Australia is a perfec
 - Zimbabwe - 2
 - *No data available - 81*
 
+This situation repeats in countries such as France (at least 25 different countries apart from France), Spain (18 different countries), Germany (17), Italy (23), Canada (20), Great Britain (13), and the Netherlands (11), among others.
 
 <PlotlyBarChart
   data={{
